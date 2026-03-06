@@ -9,7 +9,15 @@
             "developer": "Pampa",
             "screenshots": [],
             "stable": null,
-            "beta": null,
+            "beta": {
+                "version": "0.2.4",
+                "releaseDate": "2026-03-06",
+                "changelog": "",
+                "releaseTag": "cifratura-v0.2.4",
+                "apkAsset": "cifratura-0.2.4.apk",
+                "exeAsset": "cifratura-0.2.4.exe",
+                "sizeBytes": 0
+            },
             "history": []
         }
     ]
