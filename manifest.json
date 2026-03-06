@@ -1,0 +1,16 @@
+{
+    "apps": [
+        {
+            "id": "cifratura",
+            "name": "Codex",
+            "description": "",
+            "iconUrl": "",
+            "category": "Social",
+            "developer": "Pampa",
+            "screenshots": [],
+            "stable": null,
+            "beta": null,
+            "history": []
+        }
+    ]
+}
