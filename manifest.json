@@ -77,6 +77,18 @@
                     "sizeBytes": 0
                 }
             ]
+        },
+        {
+            "id": "space-invaders",
+            "name": "Pampa invaders",
+            "description": "",
+            "iconUrl": "",
+            "category": "Games",
+            "developer": "Pampa",
+            "screenshots": [],
+            "stable": null,
+            "beta": null,
+            "history": []
         }
     ]
 }
