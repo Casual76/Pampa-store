@@ -107,7 +107,15 @@
             "developer": "Pampa",
             "screenshots": [],
             "stable": null,
-            "beta": null,
+            "beta": {
+                "version": "0.6.0",
+                "releaseDate": "2026-03-08",
+                "changelog": "",
+                "releaseTag": "galleria-v0.6.0",
+                "apkAsset": "galleria-0.6.0.apk",
+                "exeAsset": "",
+                "sizeBytes": 0
+            },
             "history": []
         }
     ]
