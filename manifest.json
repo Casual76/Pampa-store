@@ -97,6 +97,18 @@
                 "sizeBytes": 0
             },
             "history": []
+        },
+        {
+            "id": "galleria",
+            "name": "GallerIA",
+            "description": "",
+            "iconUrl": "",
+            "category": "AI",
+            "developer": "Pampa",
+            "screenshots": [],
+            "stable": null,
+            "beta": null,
+            "history": []
         }
     ]
 }
