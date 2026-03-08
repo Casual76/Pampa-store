@@ -19,6 +19,26 @@
                 "sizeBytes": 0
             },
             "history": []
+        },
+        {
+            "id": "pampa-store",
+            "name": "Pampa Store",
+            "description": "Lo store ufficiale Pampa per app Android e Desktop.",
+            "iconUrl": "",
+            "category": "Tools",
+            "developer": "Pampa",
+            "screenshots": [],
+            "stable": {
+                "version": "1.0.1",
+                "releaseDate": "2026-03-08",
+                "changelog": "",
+                "releaseTag": "pampa-store-v1.0.1",
+                "apkAsset": "pampa-store-1.0.1.apk",
+                "exeAsset": "pampa-store-1.0.1.exe",
+                "sizeBytes": 0
+            },
+            "beta": null,
+            "history": []
         }
     ]
 }
