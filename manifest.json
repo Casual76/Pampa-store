@@ -10,15 +10,25 @@
             "screenshots": [],
             "stable": null,
             "beta": {
-                "version": "0.2.4",
-                "releaseDate": "2026-03-06",
+                "version": "0.2.4.1",
+                "releaseDate": "2026-03-08",
                 "changelog": "",
-                "releaseTag": "cifratura-v0.2.4",
-                "apkAsset": "cifratura-0.2.4.apk",
-                "exeAsset": "cifratura-0.2.4.exe",
+                "releaseTag": "cifratura-v0.2.4.1",
+                "apkAsset": "cifratura-0.2.4.1.apk",
+                "exeAsset": "",
                 "sizeBytes": 0
             },
-            "history": []
+            "history": [
+                {
+                    "version": "0.2.4",
+                    "releaseDate": "2026-03-06",
+                    "changelog": "",
+                    "releaseTag": "cifratura-v0.2.4",
+                    "apkAsset": "cifratura-0.2.4.apk",
+                    "exeAsset": "cifratura-0.2.4.exe",
+                    "sizeBytes": 0
+                }
+            ]
         },
         {
             "id": "pampa-store",
