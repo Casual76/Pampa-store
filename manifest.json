@@ -39,16 +39,25 @@
             "developer": "Pampa",
             "screenshots": [],
             "stable": {
-                "version": "1.0.4",
+                "version": "1.0.5",
                 "releaseDate": "2026-03-08",
-                "changelog": "Finalmente funziona",
-                "releaseTag": "pampa-store-v1.0.4",
-                "apkAsset": "pampa-store-1.0.4.apk",
-                "exeAsset": "pampa-store-1.0.4.exe",
+                "changelog": "",
+                "releaseTag": "pampa-store-v1.0.5",
+                "apkAsset": "pampa-store-1.0.5.apk",
+                "exeAsset": "",
                 "sizeBytes": 0
             },
             "beta": null,
             "history": [
+                {
+                    "version": "1.0.4",
+                    "releaseDate": "2026-03-08",
+                    "changelog": "Finalmente funziona",
+                    "releaseTag": "pampa-store-v1.0.4",
+                    "apkAsset": "pampa-store-1.0.4.apk",
+                    "exeAsset": "pampa-store-1.0.4.exe",
+                    "sizeBytes": 0
+                },
                 {
                     "version": "1.0.3",
                     "releaseDate": "2026-03-08",
