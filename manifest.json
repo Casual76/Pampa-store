@@ -20,6 +20,19 @@
             },
             "beta": null,
             "history": []
+        },
+        {
+            "id": "codex",
+            "name": "Codex",
+            "description": "app messaggistica con cifratura basata su bit maps",
+            "packageName": "",
+            "iconUrl": "",
+            "category": "Social",
+            "developer": "Pampa",
+            "screenshots": [],
+            "stable": null,
+            "beta": null,
+            "history": []
         }
     ]
 }
