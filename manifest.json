@@ -13,6 +13,13 @@
             "repoName": "GallerIA",
             "manifestPath": "manifest.json",
             "ref": ""
+        },
+        {
+            "id": "Pampa's skylines",
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-s-skylines",
+            "manifestPath": "manifest.json",
+            "ref": ""
         }
     ]
 }
