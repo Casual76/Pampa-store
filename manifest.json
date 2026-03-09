@@ -20,6 +20,13 @@
             "repoName": "Pampa-s-skylines",
             "manifestPath": "manifest.json",
             "ref": ""
+        },
+        {
+            "id": "Pampa-invaders",
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-invaders",
+            "manifestPath": "manifest.json",
+            "ref": ""
         }
     ]
 }
