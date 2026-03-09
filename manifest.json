@@ -1,38 +1,18 @@
 {
     "apps": [
         {
-            "id": "pampa-store",
-            "name": "Pampa Store",
-            "description": "Store ufficiale Pampa per Android e Desktop.",
-            "packageName": "com.pampa.store",
-            "iconUrl": "",
-            "category": "Tools",
-            "developer": "Pampa",
-            "screenshots": [],
-            "stable": {
-                "version": "1.1.0",
-                "releaseDate": "2026-03-08",
-                "changelog": "nuove visuals",
-                "releaseTag": "pampa-store-v1.1.0",
-                "apkAsset": "pampa-store-1.1.0.apk",
-                "exeAsset": "pampa-store-1.1.0.exe",
-                "sizeBytes": 0
-            },
-            "beta": null,
-            "history": []
+            "id": "codex",
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-store",
+            "manifestPath": "manifest.json",
+            "ref": ""
         },
         {
-            "id": "codex",
-            "name": "Codex",
-            "description": "app messaggistica con cifratura basata su bit maps",
-            "packageName": "",
-            "iconUrl": "",
-            "category": "Social",
-            "developer": "Pampa",
-            "screenshots": [],
-            "stable": null,
-            "beta": null,
-            "history": []
+            "id": "GallerIA",
+            "repoOwner": "Casual76",
+            "repoName": "GallerIA",
+            "manifestPath": "manifest.json",
+            "ref": ""
         }
     ]
 }
