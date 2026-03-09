@@ -1,6 +1,13 @@
 {
     "apps": [
         {
+            "id": "Codex",
+            "repoOwner": "Casual76",
+            "repoName": "Codex",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
             "id": "GallerIA",
             "repoOwner": "Casual76",
             "repoName": "GallerIA",
