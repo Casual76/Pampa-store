@@ -1,13 +1,6 @@
 {
     "apps": [
         {
-            "id": "codex",
-            "repoOwner": "Casual76",
-            "repoName": "Pampa-store",
-            "manifestPath": "manifest.json",
-            "ref": ""
-        },
-        {
             "id": "GallerIA",
             "repoOwner": "Casual76",
             "repoName": "GallerIA",
