@@ -1,6 +1,13 @@
 {
     "apps": [
         {
+            "id": "classeviva-expressive",
+            "repoOwner": "Casual76",
+            "repoName": "classeviva-expressive",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
             "id": "Codex",
             "repoOwner": "Casual76",
             "repoName": "Codex",
