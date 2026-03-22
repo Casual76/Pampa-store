@@ -1,6 +1,13 @@
 {
     "apps": [
         {
+            "id": "Air-pampa",
+            "repoOwner": "Casual76",
+            "repoName": "Air-pampa",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
             "id": "classeviva-expressive",
             "repoOwner": "Casual76",
             "repoName": "classeviva-expressive",
