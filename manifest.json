@@ -1,53 +1,73 @@
 {
-    "apps": [
-        {
-            "id": "Air-pampa",
-            "repoOwner": "Casual76",
-            "repoName": "Air-pampa",
-            "manifestPath": "manifest.json",
-            "ref": ""
-        },
-        {
-            "id": "classeviva-expressive",
-            "repoOwner": "Casual76",
-            "repoName": "classeviva-expressive",
-            "manifestPath": "manifest.json",
-            "ref": ""
-        },
-        {
-            "id": "Codex",
-            "repoOwner": "Casual76",
-            "repoName": "Codex",
-            "manifestPath": "manifest.json",
-            "ref": ""
-        },
-        {
-            "id": "GallerIA",
-            "repoOwner": "Casual76",
-            "repoName": "GallerIA",
-            "manifestPath": "manifest.json",
-            "ref": ""
-        },
-        {
-            "id": "Idiota-artificiale",
-            "repoOwner": "Casual76",
-            "repoName": "Idiota-artificiale",
-            "manifestPath": "manifest.json",
-            "ref": ""
-        },
-        {
-            "id": "Pampa's skylines",
-            "repoOwner": "Casual76",
-            "repoName": "Pampa-s-skylines",
-            "manifestPath": "manifest.json",
-            "ref": ""
-        },
-        {
-            "id": "Pampa-invaders",
-            "repoOwner": "Casual76",
-            "repoName": "Pampa-invaders",
-            "manifestPath": "manifest.json",
-            "ref": ""
-        }
-    ]
+    "apps":  [
+                 {
+                     "id":  "Air-pampa",
+                     "repoOwner":  "Casual76",
+                     "repoName":  "Air-pampa",
+                     "manifestPath":  "manifest.json",
+                     "ref":  ""
+                 },
+                 {
+                     "id":  "classeviva-expressive",
+                     "repoOwner":  "Casual76",
+                     "repoName":  "classeviva-expressive",
+                     "manifestPath":  "manifest.json",
+                     "ref":  ""
+                 },
+                 {
+                     "id":  "Codex",
+                     "repoOwner":  "Casual76",
+                     "repoName":  "Codex",
+                     "manifestPath":  "manifest.json",
+                     "ref":  ""
+                 },
+                 {
+                     "id":  "GallerIA",
+                     "repoOwner":  "Casual76",
+                     "repoName":  "GallerIA",
+                     "manifestPath":  "manifest.json",
+                     "ref":  ""
+                 },
+                 {
+                     "id":  "Idiota-artificiale",
+                     "repoOwner":  "Casual76",
+                     "repoName":  "Idiota-artificiale",
+                     "manifestPath":  "manifest.json",
+                     "ref":  ""
+                 },
+                 {
+                     "id":  "Pampa\u0027s skylines",
+                     "repoOwner":  "Casual76",
+                     "repoName":  "Pampa-s-skylines",
+                     "manifestPath":  "manifest.json",
+                     "ref":  ""
+                 },
+                 {
+                     "id":  "Pampa-invaders",
+                     "repoOwner":  "Casual76",
+                     "repoName":  "Pampa-invaders",
+                     "manifestPath":  "manifest.json",
+                     "ref":  ""
+                 }
+             ],
+    "storeReleases":  {
+                          "stable":  {
+                                         "version":  "1.1.2",
+                                         "releaseDate":  "2026-03-28",
+                                         "changelog":  "Android release 1.1.2 con fix del crash all\u0027avvio della build release e pacchetto firmato aggiornabile dall\u0027app.",
+                                         "releaseTag":  "pampa-store-v1.1.2",
+                                         "apkAsset":  "pampa-store-1.1.2.apk",
+                                         "exeAsset":  "",
+                                         "sizeBytes":  2632709
+                                     },
+                          "beta":  {
+                                       "version":  "1.1.2",
+                                       "releaseDate":  "2026-03-28",
+                                       "changelog":  "Android release 1.1.2 con fix del crash all\u0027avvio della build release e pacchetto firmato aggiornabile dall\u0027app.",
+                                       "releaseTag":  "pampa-store-v1.1.2",
+                                       "apkAsset":  "pampa-store-1.1.2.apk",
+                                       "exeAsset":  "",
+                                       "sizeBytes":  2632709
+                                   }
+                      }
 }
