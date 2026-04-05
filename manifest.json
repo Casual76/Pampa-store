@@ -50,6 +50,13 @@
             "ref": ""
         },
         {
+            "id": "Pampa-star-shooter",
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-star-shooter",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
             "id": "universal_converter",
             "repoOwner": "Casual76",
             "repoName": "universal_converter",
