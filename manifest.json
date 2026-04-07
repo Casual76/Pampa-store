@@ -1,94 +1,94 @@
 {
-  "apps": [
-    {
-      "id": "Air-pampa",
-      "repoOwner": "Casual76",
-      "repoName": "Air-pampa",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "classeviva-expressive",
-      "repoOwner": "Casual76",
-      "repoName": "classeviva-expressive",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "Codex",
-      "repoOwner": "Casual76",
-      "repoName": "Codex",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "GallerIA",
-      "repoOwner": "Casual76",
-      "repoName": "GallerIA",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "Idiota-artificiale",
-      "repoOwner": "Casual76",
-      "repoName": "Idiota-artificiale",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "Pampa's skylines",
-      "repoOwner": "Casual76",
-      "repoName": "Pampa-s-skylines",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "Pampa-invaders",
-      "repoOwner": "Casual76",
-      "repoName": "Pampa-invaders",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "Pampa-star-shooter",
-      "repoOwner": "Casual76",
-      "repoName": "Pampa-star-shooter",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "pampa-star-shooter",
-      "repoOwner": "Casual76",
-      "repoName": "Pampa-star-shooter",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "universal_converter",
-      "repoOwner": "Casual76",
-      "repoName": "universal_converter",
-      "manifestPath": "manifest.json",
-      "ref": ""
+    "apps": [
+        {
+            "id": "Air-pampa",
+            "repoOwner": "Casual76",
+            "repoName": "Air-pampa",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "classeviva-expressive",
+            "repoOwner": "Casual76",
+            "repoName": "classeviva-expressive",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "Codex",
+            "repoOwner": "Casual76",
+            "repoName": "Codex",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "GallerIA",
+            "repoOwner": "Casual76",
+            "repoName": "GallerIA",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "Idiota-artificiale",
+            "repoOwner": "Casual76",
+            "repoName": "Idiota-artificiale",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "Pampa's skylines",
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-s-skylines",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "Pampa-invaders",
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-invaders",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "Pampa-star-shooter",
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-star-shooter",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "pampa-star-shooter",
+            "repoOwner": "Casual76",
+            "repoName": "Pampa-star-shooter",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
+            "id": "universal_converter",
+            "repoOwner": "Casual76",
+            "repoName": "universal_converter",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        }
+    ],
+    "storeReleases": {
+        "stable": {
+            "version": "1.1.5",
+            "releaseDate": "2026-03-28",
+            "changelog": "- Fix del controllo aggiornamenti Android usando manifest pubblici via raw GitHub invece dell'endpoint contents soggetto a rate limit anonimo.\n- Home mobile alleggerita: hero e filtri scorrono con il catalogo invece di restare fissi in sovrimpressione.\n- Migliorata la rilevazione delle app installate/aggiornabili con confronto versioni reale, evitando falsi positivi sulle build gia' piu' nuove del catalogo.",
+            "releaseTag": "stable-pampa-store-v1.1.5",
+            "apkAsset": "pampa-store-1.1.5.apk",
+            "exeAsset": "pampa-store-1.1.5-installer.exe",
+            "sizeBytes": 109718529
+        },
+        "beta": {
+            "version": "1.1.5",
+            "releaseDate": "2026-03-28",
+            "changelog": "- Fix del controllo aggiornamenti Android usando manifest pubblici via raw GitHub invece dell'endpoint contents soggetto a rate limit anonimo.\n- Home mobile alleggerita: hero e filtri scorrono con il catalogo invece di restare fissi in sovrimpressione.\n- Migliorata la rilevazione delle app installate/aggiornabili con confronto versioni reale, evitando falsi positivi sulle build gia' piu' nuove del catalogo.",
+            "releaseTag": "stable-pampa-store-v1.1.5",
+            "apkAsset": "pampa-store-1.1.5.apk",
+            "exeAsset": "pampa-store-1.1.5-installer.exe",
+            "sizeBytes": 109718529
+        }
     }
-  ],
-  "storeReleases": {
-    "stable": {
-      "version": "1.1.5",
-      "releaseDate": "2026-03-28",
-      "changelog": "- Fix del controllo aggiornamenti Android usando manifest pubblici via raw GitHub invece dell'endpoint contents soggetto a rate limit anonimo.\n- Home mobile alleggerita: hero e filtri scorrono con il catalogo invece di restare fissi in sovrimpressione.\n- Migliorata la rilevazione delle app installate/aggiornabili con confronto versioni reale, evitando falsi positivi sulle build gia' piu' nuove del catalogo.",
-      "releaseTag": "stable-pampa-store-v1.1.5",
-      "apkAsset": "pampa-store-1.1.5.apk",
-      "exeAsset": "pampa-store-1.1.5-installer.exe",
-      "sizeBytes": 109718529
-    },
-    "beta": {
-      "version": "1.1.5",
-      "releaseDate": "2026-03-28",
-      "changelog": "- Fix del controllo aggiornamenti Android usando manifest pubblici via raw GitHub invece dell'endpoint contents soggetto a rate limit anonimo.\n- Home mobile alleggerita: hero e filtri scorrono con il catalogo invece di restare fissi in sovrimpressione.\n- Migliorata la rilevazione delle app installate/aggiornabili con confronto versioni reale, evitando falsi positivi sulle build gia' piu' nuove del catalogo.",
-      "releaseTag": "stable-pampa-store-v1.1.5",
-      "apkAsset": "pampa-store-1.1.5.apk",
-      "exeAsset": "pampa-store-1.1.5-installer.exe",
-      "sizeBytes": 109718529
-    }
-  }
 }
