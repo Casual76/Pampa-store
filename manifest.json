@@ -36,6 +36,13 @@
             "ref": ""
         },
         {
+            "id": "MyCloud-Gallery",
+            "repoOwner": "Casual76",
+            "repoName": "MyCloud-Gallery",
+            "manifestPath": "manifest.json",
+            "ref": ""
+        },
+        {
             "id": "Pampa's skylines",
             "repoOwner": "Casual76",
             "repoName": "Pampa-s-skylines",
