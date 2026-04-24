@@ -76,6 +76,13 @@
       "repoName": "universal_converter",
       "manifestPath": "manifest.json",
       "ref": ""
+    },
+    {
+      "id": "pampa-store",
+      "repoOwner": "Casual76",
+      "repoName": "Pampa-store-src",
+      "manifestPath": "manifest.json",
+      "ref": ""
     }
   ],
   "storeReleases": {
