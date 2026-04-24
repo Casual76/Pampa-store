@@ -87,22 +87,22 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.1.5",
-      "releaseDate": "2026-03-28",
-      "changelog": "- Fix del controllo aggiornamenti Android usando manifest pubblici via raw GitHub invece dell'endpoint contents soggetto a rate limit anonimo.\n- Home mobile alleggerita: hero e filtri scorrono con il catalogo invece di restare fissi in sovrimpressione.\n- Migliorata la rilevazione delle app installate/aggiornabili con confronto versioni reale, evitando falsi positivi sulle build gia' piu' nuove del catalogo.",
-      "releaseTag": "stable-pampa-store-v1.1.5",
-      "apkAsset": "pampa-store-1.1.5.apk",
-      "exeAsset": "pampa-store-1.1.5-installer.exe",
-      "sizeBytes": 109718529
+      "version": "1.1.6",
+      "releaseDate": "2026-04-24",
+      "changelog": "Aggiornamento v1.1.6: Credenziali admin dinamiche e fix MCP.",
+      "releaseTag": "stable-pampa-store-v1.1.6",
+      "apkAsset": "",
+      "exeAsset": "pampa-store-1.1.6-installer.exe",
+      "sizeBytes": 104348160
     },
     "beta": {
-      "version": "1.1.5",
-      "releaseDate": "2026-03-28",
-      "changelog": "- Fix del controllo aggiornamenti Android usando manifest pubblici via raw GitHub invece dell'endpoint contents soggetto a rate limit anonimo.\n- Home mobile alleggerita: hero e filtri scorrono con il catalogo invece di restare fissi in sovrimpressione.\n- Migliorata la rilevazione delle app installate/aggiornabili con confronto versioni reale, evitando falsi positivi sulle build gia' piu' nuove del catalogo.",
-      "releaseTag": "stable-pampa-store-v1.1.5",
-      "apkAsset": "pampa-store-1.1.5.apk",
-      "exeAsset": "pampa-store-1.1.5-installer.exe",
-      "sizeBytes": 109718529
+      "version": "1.1.6",
+      "releaseDate": "2026-04-24",
+      "changelog": "Aggiornamento v1.1.6: Credenziali admin dinamiche e fix MCP.",
+      "releaseTag": "stable-pampa-store-v1.1.6",
+      "apkAsset": "",
+      "exeAsset": "pampa-store-1.1.6-installer.exe",
+      "sizeBytes": 104348160
     }
   }
 }
