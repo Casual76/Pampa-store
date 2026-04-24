@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "id": "Air-pampa",
+      "id": "air-pampa",
       "repoOwner": "Casual76",
       "repoName": "Air-pampa",
       "manifestPath": "manifest.json",
@@ -15,51 +15,44 @@
       "ref": ""
     },
     {
-      "id": "Codex",
+      "id": "codex",
       "repoOwner": "Casual76",
       "repoName": "Codex",
       "manifestPath": "manifest.json",
       "ref": ""
     },
     {
-      "id": "GallerIA",
+      "id": "galleria",
       "repoOwner": "Casual76",
       "repoName": "GallerIA",
       "manifestPath": "manifest.json",
       "ref": ""
     },
     {
-      "id": "Idiota-artificiale",
+      "id": "idiota-artificiale",
       "repoOwner": "Casual76",
       "repoName": "Idiota-artificiale",
       "manifestPath": "manifest.json",
       "ref": ""
     },
     {
-      "id": "MyCloud-Gallery",
+      "id": "mycloud-gallery",
       "repoOwner": "Casual76",
       "repoName": "MyCloud-Gallery",
       "manifestPath": "manifest.json",
       "ref": ""
     },
     {
-      "id": "Pampa's skylines",
+      "id": "pampa-skylines",
       "repoOwner": "Casual76",
       "repoName": "Pampa-s-skylines",
       "manifestPath": "manifest.json",
       "ref": ""
     },
     {
-      "id": "Pampa-invaders",
+      "id": "pampa-invaders",
       "repoOwner": "Casual76",
       "repoName": "Pampa-invaders",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "Pampa-star-shooter",
-      "repoOwner": "Casual76",
-      "repoName": "Pampa-star-shooter",
       "manifestPath": "manifest.json",
       "ref": ""
     },
@@ -71,7 +64,7 @@
       "ref": ""
     },
     {
-      "id": "universal_converter",
+      "id": "universal-converter",
       "repoOwner": "Casual76",
       "repoName": "universal_converter",
       "manifestPath": "manifest.json",
