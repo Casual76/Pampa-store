@@ -43,16 +43,16 @@
       "ref": ""
     },
     {
-      "id": "pampa-skylines",
+      "id": "pampa-invaders",
       "repoOwner": "Casual76",
-      "repoName": "Pampa-s-skylines",
+      "repoName": "Pampa-invaders",
       "manifestPath": "manifest.json",
       "ref": ""
     },
     {
-      "id": "pampa-invaders",
+      "id": "pampa-skylines",
       "repoOwner": "Casual76",
-      "repoName": "Pampa-invaders",
+      "repoName": "Pampa-s-skylines",
       "manifestPath": "manifest.json",
       "ref": ""
     },
@@ -67,13 +67,6 @@
       "id": "universal-converter",
       "repoOwner": "Casual76",
       "repoName": "universal_converter",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "pampa-store",
-      "repoOwner": "Casual76",
-      "repoName": "Pampa-store-src",
       "manifestPath": "manifest.json",
       "ref": ""
     }
