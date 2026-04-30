@@ -36,6 +36,13 @@
       "ref": ""
     },
     {
+      "id": "keyvoice",
+      "repoOwner": "Casual76",
+      "repoName": "KeyVoice",
+      "manifestPath": "manifest.json",
+      "ref": ""
+    },
+    {
       "id": "mycloud-gallery",
       "repoOwner": "Casual76",
       "repoName": "MyCloud-Gallery",
