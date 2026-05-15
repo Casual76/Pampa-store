@@ -80,22 +80,22 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.1.7",
-      "releaseDate": "2026-04-24",
-      "changelog": "Aggiornamento v1.1.7: Risolto bug di caricamento e ottimizzazione Ktor.",
-      "releaseTag": "stable-pampa-store-v1.1.7",
-      "apkAsset": "",
+      "version": "1.2.2",
+      "releaseDate": "2026-05-15",
+      "changelog": "v1.2.2: Restyling completo Material 3, fix scorrimento portrait, aggiornamenti seamless automatici.",
+      "releaseTag": "stable-pampa-store-v1.2.2",
+      "apkAsset": "pampa-store-1.2.2.apk",
       "exeAsset": "pampa-store-1.1.7-installer.exe",
-      "sizeBytes": 104344064
+      "sizeBytes": 2682062
     },
     "beta": {
-      "version": "1.1.7",
-      "releaseDate": "2026-04-24",
-      "changelog": "Aggiornamento v1.1.7: Risolto bug di caricamento e ottimizzazione Ktor.",
-      "releaseTag": "stable-pampa-store-v1.1.7",
-      "apkAsset": "",
+      "version": "1.2.2",
+      "releaseDate": "2026-05-15",
+      "changelog": "v1.2.2: Restyling completo Material 3, fix scorrimento portrait, aggiornamenti seamless automatici.",
+      "releaseTag": "stable-pampa-store-v1.2.2",
+      "apkAsset": "pampa-store-1.2.2.apk",
       "exeAsset": "pampa-store-1.1.7-installer.exe",
-      "sizeBytes": 104344064
+      "sizeBytes": 2682062
     }
   }
 }
