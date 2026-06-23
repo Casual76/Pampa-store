@@ -71,6 +71,13 @@
       "ref": ""
     },
     {
+      "id": "pampa-widgets",
+      "repoOwner": "Casual76",
+      "repoName": "Pampa-widgets",
+      "manifestPath": "manifest.json",
+      "ref": ""
+    },
+    {
       "id": "universal-converter",
       "repoOwner": "Casual76",
       "repoName": "universal_converter",
