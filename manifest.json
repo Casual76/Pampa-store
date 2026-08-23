@@ -1,13 +1,6 @@
 {
   "apps": [
     {
-      "id": "air-pampa",
-      "repoOwner": "Casual76",
-      "repoName": "Air-pampa",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
       "id": "classeviva-expressive",
       "repoOwner": "Casual76",
       "repoName": "classeviva-expressive",
@@ -25,13 +18,6 @@
       "id": "galleria",
       "repoOwner": "Casual76",
       "repoName": "GallerIA",
-      "manifestPath": "manifest.json",
-      "ref": ""
-    },
-    {
-      "id": "idiota-artificiale",
-      "repoOwner": "Casual76",
-      "repoName": "Idiota-artificiale",
       "manifestPath": "manifest.json",
       "ref": ""
     },
