@@ -87,22 +87,22 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.2.2",
-      "releaseDate": "2026-05-15",
-      "changelog": "v1.2.2: Restyling completo Material 3, fix scorrimento portrait, aggiornamenti seamless automatici.",
-      "releaseTag": "stable-pampa-store-v1.2.2",
-      "apkAsset": "pampa-store-1.2.2.apk",
-      "exeAsset": "pampa-store-1.1.7-installer.exe",
-      "sizeBytes": 2682062
+      "version": "1.3.0",
+      "releaseDate": "2026-08-24",
+      "changelog": "Impostazioni ricostruite: sezioni raggruppate con intestazioni in maiuscolo, come una tabella di iOS, e l'icona che scende sulle righe invece di etichettare il blocco. Catalogo, dettaglio e impostazioni ora cedono in fondo invece di fermarsi di colpo. La palette si deriva da un solo colore invece che da due liste di trenta colori scritte a mano, e gli angoli sono continui. Le schermate Admin seguono finalmente il tema scuro, che prima ignoravano.",
+      "releaseTag": "stable-pampa-store-v1.3.0",
+      "apkAsset": "pampa-store-1.3.0.apk",
+      "exeAsset": "",
+      "sizeBytes": 2698454
     },
     "beta": {
-      "version": "1.2.2",
-      "releaseDate": "2026-05-15",
-      "changelog": "v1.2.2: Restyling completo Material 3, fix scorrimento portrait, aggiornamenti seamless automatici.",
-      "releaseTag": "stable-pampa-store-v1.2.2",
-      "apkAsset": "pampa-store-1.2.2.apk",
-      "exeAsset": "pampa-store-1.1.7-installer.exe",
-      "sizeBytes": 2682062
+      "version": "1.3.0",
+      "releaseDate": "2026-08-24",
+      "changelog": "Impostazioni ricostruite: sezioni raggruppate con intestazioni in maiuscolo, come una tabella di iOS, e l'icona che scende sulle righe invece di etichettare il blocco. Catalogo, dettaglio e impostazioni ora cedono in fondo invece di fermarsi di colpo. La palette si deriva da un solo colore invece che da due liste di trenta colori scritte a mano, e gli angoli sono continui. Le schermate Admin seguono finalmente il tema scuro, che prima ignoravano.",
+      "releaseTag": "stable-pampa-store-v1.3.0",
+      "apkAsset": "pampa-store-1.3.0.apk",
+      "exeAsset": "",
+      "sizeBytes": 2698454
     }
   }
 }
