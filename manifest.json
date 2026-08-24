@@ -73,22 +73,20 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.3.2",
+      "version": "1.4.0",
       "releaseDate": "2026-08-24",
-      "changelog": "Lo store ora dichiara la visibilita' dei pacchetti: da Android 11 un'app non vede quali altre app sono installate se non lo dichiara. Un avviso del catalogo non fa piu' comparire 'Connessione non disponibile' al posto delle app, e un filtro senza risultati lo dice invece di sembrare un guasto di rete. In piu': impostazioni raggruppate, bordo elastico, palette derivata da un solo colore, schermate Admin che seguono il tema scuro.",
-      "releaseTag": "stable-pampa-store-v1.3.2",
-      "apkAsset": "pampa-store-1.3.2.apk",
-      "exeAsset": "",
-      "sizeBytes": 2698443
+      "changelog": "Pampa Store e' stato ricostruito da zero per Android con Fluid Engine 1.2.3. Nuove Home, Catalogo, Dettaglio e Altro, navigazione adattiva per telefoni e tablet, ricerca e filtri, temi Nebula 76 e Material You, cache offline e flussi di installazione e aggiornamento piu' chiari. Rimossi definitivamente il client Windows e il pannello Admin.",
+      "releaseTag": "stable-pampa-store-v1.4.0",
+      "apkAsset": "pampa-store-1.4.0.apk",
+      "sizeBytes": 3570367
     },
     "beta": {
-      "version": "1.3.2",
+      "version": "1.4.0",
       "releaseDate": "2026-08-24",
-      "changelog": "Lo store ora dichiara la visibilita' dei pacchetti: da Android 11 un'app non vede quali altre app sono installate se non lo dichiara. Un avviso del catalogo non fa piu' comparire 'Connessione non disponibile' al posto delle app, e un filtro senza risultati lo dice invece di sembrare un guasto di rete. In piu': impostazioni raggruppate, bordo elastico, palette derivata da un solo colore, schermate Admin che seguono il tema scuro.",
-      "releaseTag": "stable-pampa-store-v1.3.2",
-      "apkAsset": "pampa-store-1.3.2.apk",
-      "exeAsset": "",
-      "sizeBytes": 2698443
+      "changelog": "Pampa Store e' stato ricostruito da zero per Android con Fluid Engine 1.2.3. Nuove Home, Catalogo, Dettaglio e Altro, navigazione adattiva per telefoni e tablet, ricerca e filtri, temi Nebula 76 e Material You, cache offline e flussi di installazione e aggiornamento piu' chiari. Rimossi definitivamente il client Windows e il pannello Admin.",
+      "releaseTag": "stable-pampa-store-v1.4.0",
+      "apkAsset": "pampa-store-1.4.0.apk",
+      "sizeBytes": 3570367
     }
   }
 }
