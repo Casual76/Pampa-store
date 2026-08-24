@@ -73,22 +73,22 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.3.1",
+      "version": "1.3.2",
       "releaseDate": "2026-08-24",
-      "changelog": "Un avviso del catalogo non e' piu' un guasto di rete. Le note tipo \"l'app X usa un id diverso nel proprio manifest\" finivano nella stessa variabile degli errori di caricamento: bastava che un filtro non producesse risultati perche' lo store dicesse 'Connessione non disponibile' al posto del catalogo, che intanto si era caricato benissimo. Ora un filtro senza risultati lo dice, e basta. In piu': impostazioni raggruppate, bordo elastico, palette derivata da un solo colore e schermate Admin che seguono finalmente il tema scuro.",
-      "releaseTag": "stable-pampa-store-v1.3.1",
-      "apkAsset": "pampa-store-1.3.1.apk",
+      "changelog": "Lo store ora dichiara la visibilita' dei pacchetti: da Android 11 un'app non vede quali altre app sono installate se non lo dichiara. Un avviso del catalogo non fa piu' comparire 'Connessione non disponibile' al posto delle app, e un filtro senza risultati lo dice invece di sembrare un guasto di rete. In piu': impostazioni raggruppate, bordo elastico, palette derivata da un solo colore, schermate Admin che seguono il tema scuro.",
+      "releaseTag": "stable-pampa-store-v1.3.2",
+      "apkAsset": "pampa-store-1.3.2.apk",
       "exeAsset": "",
-      "sizeBytes": 2698453
+      "sizeBytes": 2698443
     },
     "beta": {
-      "version": "1.3.1",
+      "version": "1.3.2",
       "releaseDate": "2026-08-24",
-      "changelog": "Un avviso del catalogo non e' piu' un guasto di rete. Le note tipo \"l'app X usa un id diverso nel proprio manifest\" finivano nella stessa variabile degli errori di caricamento: bastava che un filtro non producesse risultati perche' lo store dicesse 'Connessione non disponibile' al posto del catalogo, che intanto si era caricato benissimo. Ora un filtro senza risultati lo dice, e basta. In piu': impostazioni raggruppate, bordo elastico, palette derivata da un solo colore e schermate Admin che seguono finalmente il tema scuro.",
-      "releaseTag": "stable-pampa-store-v1.3.1",
-      "apkAsset": "pampa-store-1.3.1.apk",
+      "changelog": "Lo store ora dichiara la visibilita' dei pacchetti: da Android 11 un'app non vede quali altre app sono installate se non lo dichiara. Un avviso del catalogo non fa piu' comparire 'Connessione non disponibile' al posto delle app, e un filtro senza risultati lo dice invece di sembrare un guasto di rete. In piu': impostazioni raggruppate, bordo elastico, palette derivata da un solo colore, schermate Admin che seguono il tema scuro.",
+      "releaseTag": "stable-pampa-store-v1.3.2",
+      "apkAsset": "pampa-store-1.3.2.apk",
       "exeAsset": "",
-      "sizeBytes": 2698453
+      "sizeBytes": 2698443
     }
   }
 }
