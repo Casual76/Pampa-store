@@ -73,22 +73,22 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.3.0",
+      "version": "1.3.1",
       "releaseDate": "2026-08-24",
-      "changelog": "Impostazioni ricostruite: sezioni raggruppate con intestazioni in maiuscolo, come una tabella di iOS, e l'icona che scende sulle righe invece di etichettare il blocco. Catalogo, dettaglio e impostazioni ora cedono in fondo invece di fermarsi di colpo. La palette si deriva da un solo colore invece che da due liste di trenta colori scritte a mano, e gli angoli sono continui. Le schermate Admin seguono finalmente il tema scuro, che prima ignoravano.",
-      "releaseTag": "stable-pampa-store-v1.3.0",
-      "apkAsset": "pampa-store-1.3.0.apk",
+      "changelog": "Un avviso del catalogo non e' piu' un guasto di rete. Le note tipo \"l'app X usa un id diverso nel proprio manifest\" finivano nella stessa variabile degli errori di caricamento: bastava che un filtro non producesse risultati perche' lo store dicesse 'Connessione non disponibile' al posto del catalogo, che intanto si era caricato benissimo. Ora un filtro senza risultati lo dice, e basta. In piu': impostazioni raggruppate, bordo elastico, palette derivata da un solo colore e schermate Admin che seguono finalmente il tema scuro.",
+      "releaseTag": "stable-pampa-store-v1.3.1",
+      "apkAsset": "pampa-store-1.3.1.apk",
       "exeAsset": "",
-      "sizeBytes": 2698454
+      "sizeBytes": 2698453
     },
     "beta": {
-      "version": "1.3.0",
+      "version": "1.3.1",
       "releaseDate": "2026-08-24",
-      "changelog": "Impostazioni ricostruite: sezioni raggruppate con intestazioni in maiuscolo, come una tabella di iOS, e l'icona che scende sulle righe invece di etichettare il blocco. Catalogo, dettaglio e impostazioni ora cedono in fondo invece di fermarsi di colpo. La palette si deriva da un solo colore invece che da due liste di trenta colori scritte a mano, e gli angoli sono continui. Le schermate Admin seguono finalmente il tema scuro, che prima ignoravano.",
-      "releaseTag": "stable-pampa-store-v1.3.0",
-      "apkAsset": "pampa-store-1.3.0.apk",
+      "changelog": "Un avviso del catalogo non e' piu' un guasto di rete. Le note tipo \"l'app X usa un id diverso nel proprio manifest\" finivano nella stessa variabile degli errori di caricamento: bastava che un filtro non producesse risultati perche' lo store dicesse 'Connessione non disponibile' al posto del catalogo, che intanto si era caricato benissimo. Ora un filtro senza risultati lo dice, e basta. In piu': impostazioni raggruppate, bordo elastico, palette derivata da un solo colore e schermate Admin che seguono finalmente il tema scuro.",
+      "releaseTag": "stable-pampa-store-v1.3.1",
+      "apkAsset": "pampa-store-1.3.1.apk",
       "exeAsset": "",
-      "sizeBytes": 2698454
+      "sizeBytes": 2698453
     }
   }
 }
