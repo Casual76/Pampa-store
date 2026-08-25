@@ -15,6 +15,13 @@
       "ref": ""
     },
     {
+      "id": "fluid-glass",
+      "repoOwner": "Casual76",
+      "repoName": "fluid-engine",
+      "manifestPath": "manifest.json",
+      "ref": ""
+    },
+    {
       "id": "galleria",
       "repoOwner": "Casual76",
       "repoName": "GallerIA",
