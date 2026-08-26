@@ -80,20 +80,24 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.4.0",
-      "releaseDate": "2026-08-24",
-      "changelog": "Pampa Store e' stato ricostruito da zero per Android con Fluid Engine 1.2.3. Nuove Home, Catalogo, Dettaglio e Altro, navigazione adattiva per telefoni e tablet, ricerca e filtri, temi Nebula 76 e Material You, cache offline e flussi di installazione e aggiornamento piu' chiari. Rimossi definitivamente il client Windows e il pannello Admin.",
-      "releaseTag": "stable-pampa-store-v1.4.0",
-      "apkAsset": "pampa-store-1.4.0.apk",
-      "sizeBytes": 3570367
+      "version": "1.6.0",
+      "releaseDate": "2026-08-26",
+      "changelog": "Il vetro liquido, finalmente con qualcosa da rifrangere.\n\nOgni schermata ha un fondale suo — Home, Catalogo, Aggiornamenti e Altro si riconoscono al colore prima ancora di leggerli — e i contenitori sopra sono di vetro vero: una lente sopra una pagina piatta produce una pagina piatta, ed era il motivo per cui il materiale non si vedeva. I preset dell'accento sono piu' saturi e ne arrivano due nuovi, Plasma Magenta e Cyan Tide.\n\nAggiornamenti e' una scheda, non piu' un filtro nascosto nel Catalogo. La riga che tocchi diventa il pannello col changelog e ci ritorna dentro; \"Aggiorna tutto\" e' un tasto che, tenuto premuto, si trasforma nel proprio menu. La coda mostra il progresso di ogni download e riprova quelli che non sono riusciti, uno alla volta perche' Android chiede conferma per ogni pacchetto.\n\nE lo Store guarda anche quando e' chiuso: ogni sei ore controlla se una delle app installate ha una versione nuova e te lo dice con una notifica sola, raggruppata, che non ripete la stessa versione due volte.\n\nLa barra di navigazione si ripiega mentre scorri e torna toccandola. Tenendo premuta un'app installata la apri senza passare dalla scheda. Sotto: Fluid Engine 1.4.0 -> 1.9.11.",
+      "releaseTag": "stable-pampa-store-v1.6.0",
+      "apkAsset": "pampa-store-1.6.0.apk",
+      "sizeBytes": 3803793
     },
     "beta": {
-      "version": "1.4.0",
-      "releaseDate": "2026-08-24",
-      "changelog": "Pampa Store e' stato ricostruito da zero per Android con Fluid Engine 1.2.3. Nuove Home, Catalogo, Dettaglio e Altro, navigazione adattiva per telefoni e tablet, ricerca e filtri, temi Nebula 76 e Material You, cache offline e flussi di installazione e aggiornamento piu' chiari. Rimossi definitivamente il client Windows e il pannello Admin.",
-      "releaseTag": "stable-pampa-store-v1.4.0",
-      "apkAsset": "pampa-store-1.4.0.apk",
-      "sizeBytes": 3570367
+      "version": "1.6.0",
+      "releaseDate": "2026-08-26",
+      "changelog": "Il vetro liquido, finalmente con qualcosa da rifrangere.\n\nOgni schermata ha un fondale suo — Home, Catalogo, Aggiornamenti e Altro si riconoscono al colore prima ancora di leggerli — e i contenitori sopra sono di vetro vero: una lente sopra una pagina piatta produce una pagina piatta, ed era il motivo per cui il materiale non si vedeva. I preset dell'accento sono piu' saturi e ne arrivano due nuovi, Plasma Magenta e Cyan Tide.\n\nAggiornamenti e' una scheda, non piu' un filtro nascosto nel Catalogo. La riga che tocchi diventa il pannello col changelog e ci ritorna dentro; \"Aggiorna tutto\" e' un tasto che, tenuto premuto, si trasforma nel proprio menu. La coda mostra il progresso di ogni download e riprova quelli che non sono riusciti, uno alla volta perche' Android chiede conferma per ogni pacchetto.\n\nE lo Store guarda anche quando e' chiuso: ogni sei ore controlla se una delle app installate ha una versione nuova e te lo dice con una notifica sola, raggruppata, che non ripete la stessa versione due volte.\n\nLa barra di navigazione si ripiega mentre scorri e torna toccandola. Tenendo premuta un'app installata la apri senza passare dalla scheda. Sotto: Fluid Engine 1.4.0 -> 1.9.11.",
+      "releaseTag": "stable-pampa-store-v1.6.0",
+      "apkAsset": "pampa-store-1.6.0.apk",
+      "sizeBytes": 3803793
+    },
+    "repository": {
+      "repoOwner": "Casual76",
+      "repoName": "Pampa-store"
     }
   }
 }
