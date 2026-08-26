@@ -80,20 +80,20 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.6.1",
+      "version": "1.6.2",
       "releaseDate": "2026-08-26",
-      "changelog": "Le vecchie versioni si possono rimettere.\n\nNella scheda di ogni app la Cronologia elencava le release precedenti senza poterci fare niente. Ora ogni versione con un APK si tocca: la riga diventa un pannello con le sue note, la data e il peso, e un tasto per installarla.\n\nTornare indietro pero' non e' un'installazione qualunque, e adesso te lo dice prima e non dopo. Android non lascia sovrascrivere una versione con una piu' vecchia, quindi l'unica strada e' rimuovere l'app - e i suoi dati se ne vanno con lei. Lo Store apre il dialogo di disinstallazione, aspetta, e appena l'app e' sparita installa da solo la versione che hai scelto. Se annulli, non succede niente.\n\nCorretti anche i due pannelli che crescono dalla riga toccata - quello della cronologia e quello degli aggiornamenti: uscivano vuoti.",
-      "releaseTag": "stable-pampa-store-v1.6.1",
-      "apkAsset": "pampa-store-1.6.1.apk",
-      "sizeBytes": 3803819
+      "changelog": "Due correzioni alla cronologia delle versioni.\n\nLe release piu' vecchie non si potevano toccare. Un'app con settantotto versioni le teneva tutte in un pannello solo, alto decine di migliaia di pixel, e un nodo cosi' alto smette di ricevere i tocchi molto prima di smettere di disegnarsi: le righe in fondo si vedevano benissimo e il dito non otteneva niente. Ora la cronologia e' tagliata in piu' pannelli - a vedersi resta un gruppo solo, ma si tocca fino all'ultima.\n\nE il pannello si richiudeva al centro dello schermo invece di rientrare nella riga da cui era nato.\n\nIn piu': con due release che portano lo stesso numero di versione non si confondono piu', e il peso del pacchetto compare solo quando c'e' davvero invece di lasciare un trattino accanto alla data.",
+      "releaseTag": "stable-pampa-store-v1.6.2",
+      "apkAsset": "pampa-store-1.6.2.apk",
+      "sizeBytes": 3820189
     },
     "beta": {
-      "version": "1.6.1",
+      "version": "1.6.2",
       "releaseDate": "2026-08-26",
-      "changelog": "Le vecchie versioni si possono rimettere.\n\nNella scheda di ogni app la Cronologia elencava le release precedenti senza poterci fare niente. Ora ogni versione con un APK si tocca: la riga diventa un pannello con le sue note, la data e il peso, e un tasto per installarla.\n\nTornare indietro pero' non e' un'installazione qualunque, e adesso te lo dice prima e non dopo. Android non lascia sovrascrivere una versione con una piu' vecchia, quindi l'unica strada e' rimuovere l'app - e i suoi dati se ne vanno con lei. Lo Store apre il dialogo di disinstallazione, aspetta, e appena l'app e' sparita installa da solo la versione che hai scelto. Se annulli, non succede niente.\n\nCorretti anche i due pannelli che crescono dalla riga toccata - quello della cronologia e quello degli aggiornamenti: uscivano vuoti.",
-      "releaseTag": "stable-pampa-store-v1.6.1",
-      "apkAsset": "pampa-store-1.6.1.apk",
-      "sizeBytes": 3803819
+      "changelog": "Due correzioni alla cronologia delle versioni.\n\nLe release piu' vecchie non si potevano toccare. Un'app con settantotto versioni le teneva tutte in un pannello solo, alto decine di migliaia di pixel, e un nodo cosi' alto smette di ricevere i tocchi molto prima di smettere di disegnarsi: le righe in fondo si vedevano benissimo e il dito non otteneva niente. Ora la cronologia e' tagliata in piu' pannelli - a vedersi resta un gruppo solo, ma si tocca fino all'ultima.\n\nE il pannello si richiudeva al centro dello schermo invece di rientrare nella riga da cui era nato.\n\nIn piu': con due release che portano lo stesso numero di versione non si confondono piu', e il peso del pacchetto compare solo quando c'e' davvero invece di lasciare un trattino accanto alla data.",
+      "releaseTag": "stable-pampa-store-v1.6.2",
+      "apkAsset": "pampa-store-1.6.2.apk",
+      "sizeBytes": 3820189
     },
     "repository": {
       "repoOwner": "Casual76",
