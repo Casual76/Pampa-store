@@ -80,20 +80,20 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.6.3",
+      "version": "1.6.4",
       "releaseDate": "2026-08-27",
-      "changelog": "Gli APK scaricati per installare le app non restano piu' sul telefono.\n\nOgni installazione ne lasciava uno in una cartella che nessuno svuota mai: dopo qualche decina di aggiornamenti sono un centinaio di megabyte di file che hanno gia' finito il loro lavoro. Adesso il pacchetto si cancella appena Android conferma l'installazione.\n\nAll'avvio, poi, lo Store ripulisce quello che era rimasto indietro: le installazioni fallite, e soprattutto il suo stesso aggiornamento - quello Android lo chiude terminando il processo, prima che ci sia modo di cancellare alcunche'.",
-      "releaseTag": "stable-pampa-store-v1.6.3",
-      "apkAsset": "pampa-store-1.6.3.apk",
-      "sizeBytes": 3820194
+      "changelog": "Lo Store adesso si accorge dei propri aggiornamenti anche quando e' chiuso, e te lo dice.\n\nIl controllo che gira ogni sei ore in background guardava le app installate ma non lo Store stesso: l'unica app di cui nessun altro puo' darti la notizia era anche l'unica che nessuno annunciava. Ora ci sta dentro, e la sua nuova versione arriva in notifica insieme alle altre - una volta sola, non ogni sei ore.\n\nE in Altro > Pampa Store c'e' un tasto per controllare adesso. Risponde sempre: se c'e' una versione nuova la riga diventa \"Aggiorna alla ...\", altrimenti ti dice che sei all'ultima - o che non e' riuscito a chiederlo, se manca la rete. Funziona anche con il controllo automatico spento.",
+      "releaseTag": "stable-pampa-store-v1.6.4",
+      "apkAsset": "pampa-store-1.6.4.apk",
+      "sizeBytes": 3820201
     },
     "beta": {
-      "version": "1.6.3",
+      "version": "1.6.4",
       "releaseDate": "2026-08-27",
-      "changelog": "Gli APK scaricati per installare le app non restano piu' sul telefono.\n\nOgni installazione ne lasciava uno in una cartella che nessuno svuota mai: dopo qualche decina di aggiornamenti sono un centinaio di megabyte di file che hanno gia' finito il loro lavoro. Adesso il pacchetto si cancella appena Android conferma l'installazione.\n\nAll'avvio, poi, lo Store ripulisce quello che era rimasto indietro: le installazioni fallite, e soprattutto il suo stesso aggiornamento - quello Android lo chiude terminando il processo, prima che ci sia modo di cancellare alcunche'.",
-      "releaseTag": "stable-pampa-store-v1.6.3",
-      "apkAsset": "pampa-store-1.6.3.apk",
-      "sizeBytes": 3820194
+      "changelog": "Lo Store adesso si accorge dei propri aggiornamenti anche quando e' chiuso, e te lo dice.\n\nIl controllo che gira ogni sei ore in background guardava le app installate ma non lo Store stesso: l'unica app di cui nessun altro puo' darti la notizia era anche l'unica che nessuno annunciava. Ora ci sta dentro, e la sua nuova versione arriva in notifica insieme alle altre - una volta sola, non ogni sei ore.\n\nE in Altro > Pampa Store c'e' un tasto per controllare adesso. Risponde sempre: se c'e' una versione nuova la riga diventa \"Aggiorna alla ...\", altrimenti ti dice che sei all'ultima - o che non e' riuscito a chiederlo, se manca la rete. Funziona anche con il controllo automatico spento.",
+      "releaseTag": "stable-pampa-store-v1.6.4",
+      "apkAsset": "pampa-store-1.6.4.apk",
+      "sizeBytes": 3820201
     },
     "repository": {
       "repoOwner": "Casual76",
