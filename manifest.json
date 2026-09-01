@@ -22,6 +22,13 @@
       "ref": ""
     },
     {
+      "id": "fluid-transit",
+      "repoOwner": "Casual76",
+      "repoName": "Fluid-transit",
+      "manifestPath": "manifest.json",
+      "ref": "main"
+    },
+    {
       "id": "fluidify",
       "repoOwner": "Casual76",
       "repoName": "Fluidify",
