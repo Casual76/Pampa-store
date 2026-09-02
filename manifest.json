@@ -36,6 +36,13 @@
       "ref": "master"
     },
     {
+      "id": "fluidweather",
+      "repoOwner": "Casual76",
+      "repoName": "FluidWeather",
+      "manifestPath": "manifest.json",
+      "ref": "main"
+    },
+    {
       "id": "galleria",
       "repoOwner": "Casual76",
       "repoName": "GallerIA",
