@@ -92,6 +92,13 @@
       "ref": ""
     },
     {
+      "id": "pampai",
+      "repoOwner": "Casual76",
+      "repoName": "PampAI",
+      "manifestPath": "manifest.json",
+      "ref": "main"
+    },
+    {
       "id": "universal-converter",
       "repoOwner": "Casual76",
       "repoName": "universal_converter",
