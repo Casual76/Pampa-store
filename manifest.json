@@ -103,7 +103,7 @@
       "repoOwner": "Casual76",
       "repoName": "universal_converter",
       "manifestPath": "manifest.json",
-      "ref": ""
+      "ref": "main"
     }
   ],
   "storeReleases": {
