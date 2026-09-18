@@ -71,6 +71,13 @@
       "ref": ""
     },
     {
+      "id": "pampa-notes",
+      "repoOwner": "Casual76",
+      "repoName": "Pampa-notes",
+      "manifestPath": "manifest.json",
+      "ref": "main"
+    },
+    {
       "id": "pampa-skylines",
       "repoOwner": "Casual76",
       "repoName": "Pampa-s-skylines",
