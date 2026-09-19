@@ -115,20 +115,20 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.7.0",
-      "releaseDate": "2026-09-08",
-      "changelog": "Lo Store parla con Aria: otto strumenti (catalogo, scheda di un'app, aggiornamenti, installazione e aggiornamento di tutto con conferma, apertura, canale, coda) e il ponte che li espone all'assistente PampAI. Dentro, il motore dello Store e' uno solo per processo, cosi' una coda avviata da fuori arriva in fondo.",
-      "releaseTag": "stable-pampa-store-v1.7.0",
-      "apkAsset": "pampa-store-1.7.0.apk",
-      "sizeBytes": 3836840
+      "version": "1.7.1",
+      "releaseDate": "2026-09-19",
+      "changelog": "La pillola in basso e gli interruttori.\n\nLa barra di navigazione e' piu' bassa e le scritte hanno la misura di un'etichetta: prima le schede venivano disposte alla larghezza piena qualunque fosse lo schermo, quindi le parole andavano a capo e la barra cresceva per contenerle. L'indicatore della scheda scelta ha preso il colore dell'app, parte insieme al dito e si vede muoversi per intero prima che la pagina cambi; si puo' anche trascinare e resta sotto il dito per tutta la corsa. Ripiegandosi si raccoglie a sinistra, dove il pollice la raggiunge, come un tasto tondo piu' grande.\n\nGli interruttori sono quelli di vetro vero: il pomello e' l'unica lastra del controllo, a riposo bianco pieno, e tenuto premuto il bianco sparisce e sotto si apre una copia schiacciata della pista, con la frangia cromatica sul bordo. Si commutano con un tocco in qualunque punto oppure trascinandoli.\n\nFluid Engine 2.3.2.",
+      "releaseTag": "stable-pampa-store-v1.7.1",
+      "apkAsset": "pampa-store-1.7.1.apk",
+      "sizeBytes": 3886007
     },
     "beta": {
-      "version": "1.7.0",
-      "releaseDate": "2026-09-08",
-      "changelog": "Lo Store parla con Aria: otto strumenti (catalogo, scheda di un'app, aggiornamenti, installazione e aggiornamento di tutto con conferma, apertura, canale, coda) e il ponte che li espone all'assistente PampAI. Dentro, il motore dello Store e' uno solo per processo, cosi' una coda avviata da fuori arriva in fondo.",
-      "releaseTag": "stable-pampa-store-v1.7.0",
-      "apkAsset": "pampa-store-1.7.0.apk",
-      "sizeBytes": 3836840
+      "version": "1.7.1",
+      "releaseDate": "2026-09-19",
+      "changelog": "La pillola in basso e gli interruttori.\n\nLa barra di navigazione e' piu' bassa e le scritte hanno la misura di un'etichetta: prima le schede venivano disposte alla larghezza piena qualunque fosse lo schermo, quindi le parole andavano a capo e la barra cresceva per contenerle. L'indicatore della scheda scelta ha preso il colore dell'app, parte insieme al dito e si vede muoversi per intero prima che la pagina cambi; si puo' anche trascinare e resta sotto il dito per tutta la corsa. Ripiegandosi si raccoglie a sinistra, dove il pollice la raggiunge, come un tasto tondo piu' grande.\n\nGli interruttori sono quelli di vetro vero: il pomello e' l'unica lastra del controllo, a riposo bianco pieno, e tenuto premuto il bianco sparisce e sotto si apre una copia schiacciata della pista, con la frangia cromatica sul bordo. Si commutano con un tocco in qualunque punto oppure trascinandoli.\n\nFluid Engine 2.3.2.",
+      "releaseTag": "stable-pampa-store-v1.7.1",
+      "apkAsset": "pampa-store-1.7.1.apk",
+      "sizeBytes": 3886007
     },
     "repository": {
       "repoOwner": "Casual76",
