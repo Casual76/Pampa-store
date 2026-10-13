@@ -85,6 +85,13 @@
       "ref": ""
     },
     {
+      "id": "pampa-sounds",
+      "repoOwner": "Casual76",
+      "repoName": "Pampa-sounds",
+      "manifestPath": "manifest.json",
+      "ref": "main"
+    },
+    {
       "id": "pampa-star-shooter",
       "repoOwner": "Casual76",
       "repoName": "Pampa-star-shooter",
