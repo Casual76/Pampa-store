@@ -122,20 +122,20 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.8.0",
-      "releaseDate": "2026-10-09",
-      "changelog": "Home: countdown all'uscita di Fünkazzenland (10 ottobre, ore 15:00) con pulsante per chiedere l'invito.",
-      "releaseTag": "stable-pampa-store-v1.8.0",
-      "apkAsset": "pampa-store-1.8.0.apk",
-      "sizeBytes": 3885996
+      "version": "1.8.1",
+      "releaseDate": "2026-10-13",
+      "changelog": "Il vetro dell'app è aggiornato (Fluid Engine 2.12.1). I pannelli grandi sono più sfocati e piegano di più la luce ai bordi. I pulsanti si possono tenere premuti e trascinare senza che la pagina scorra, e interruttori e cursori non la fanno più scorrere mentre li muovi. Cambiando scheda, la barra in basso non mostra più per un attimo la pagina nitida sotto il vetro, e la scheda che premi resta leggibile. Le notifiche dentro l'app si tirano giù per leggerle intere e si scartano verso l'alto.",
+      "releaseTag": "stable-pampa-store-v1.8.1",
+      "apkAsset": "pampa-store-1.8.1.apk",
+      "sizeBytes": 3935153
     },
     "beta": {
-      "version": "1.8.0",
-      "releaseDate": "2026-10-09",
-      "changelog": "Home: countdown all'uscita di Fünkazzenland (10 ottobre, ore 15:00) con pulsante per chiedere l'invito.",
-      "releaseTag": "stable-pampa-store-v1.8.0",
-      "apkAsset": "pampa-store-1.8.0.apk",
-      "sizeBytes": 3885996
+      "version": "1.8.1",
+      "releaseDate": "2026-10-13",
+      "changelog": "Il vetro dell'app è aggiornato (Fluid Engine 2.12.1). I pannelli grandi sono più sfocati e piegano di più la luce ai bordi. I pulsanti si possono tenere premuti e trascinare senza che la pagina scorra, e interruttori e cursori non la fanno più scorrere mentre li muovi. Cambiando scheda, la barra in basso non mostra più per un attimo la pagina nitida sotto il vetro, e la scheda che premi resta leggibile. Le notifiche dentro l'app si tirano giù per leggerle intere e si scartano verso l'alto.",
+      "releaseTag": "stable-pampa-store-v1.8.1",
+      "apkAsset": "pampa-store-1.8.1.apk",
+      "sizeBytes": 3935153
     },
     "repository": {
       "repoOwner": "Casual76",
