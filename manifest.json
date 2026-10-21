@@ -122,20 +122,20 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.8.2",
-      "releaseDate": "2026-10-13",
-      "changelog": "Vetro sopra vetro, come dev'essere (Fluid Engine 2.13.0): un pulsante su un pannello, su un pop-up, su un foglio o su una card ora sfoca il vetro su cui sta invece di lasciar vedere la pagina nitida, e i pomelli di interruttori e cursori tenuti su una card mostrano la card.",
-      "releaseTag": "stable-pampa-store-v1.8.2",
-      "apkAsset": "pampa-store-1.8.2.apk",
-      "sizeBytes": 3935138
+      "version": "1.8.3",
+      "releaseDate": "2026-10-21",
+      "changelog": "Gli interruttori si trascinano davvero (Fluid Engine 2.13.1): prima si potevano solo toccare. Ora li puoi trascinare partendo da qualunque punto, la pagina resta ferma mentre lo fai, e una vibrazione leggera ti dice quando si accendono o si spengono, sia toccandoli sia trascinandoli.",
+      "releaseTag": "stable-pampa-store-v1.8.3",
+      "apkAsset": "pampa-store-1.8.3.apk",
+      "sizeBytes": 3935142
     },
     "beta": {
-      "version": "1.8.2",
-      "releaseDate": "2026-10-13",
-      "changelog": "Vetro sopra vetro, come dev'essere (Fluid Engine 2.13.0): un pulsante su un pannello, su un pop-up, su un foglio o su una card ora sfoca il vetro su cui sta invece di lasciar vedere la pagina nitida, e i pomelli di interruttori e cursori tenuti su una card mostrano la card.",
-      "releaseTag": "stable-pampa-store-v1.8.2",
-      "apkAsset": "pampa-store-1.8.2.apk",
-      "sizeBytes": 3935138
+      "version": "1.8.3",
+      "releaseDate": "2026-10-21",
+      "changelog": "Gli interruttori si trascinano davvero (Fluid Engine 2.13.1): prima si potevano solo toccare. Ora li puoi trascinare partendo da qualunque punto, la pagina resta ferma mentre lo fai, e una vibrazione leggera ti dice quando si accendono o si spengono, sia toccandoli sia trascinandoli.",
+      "releaseTag": "stable-pampa-store-v1.8.3",
+      "apkAsset": "pampa-store-1.8.3.apk",
+      "sizeBytes": 3935142
     },
     "repository": {
       "repoOwner": "Casual76",
