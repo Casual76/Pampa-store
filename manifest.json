@@ -19,7 +19,7 @@
       "repoOwner": "Casual76",
       "repoName": "fluid-engine",
       "manifestPath": "manifest.json",
-      "ref": ""
+      "ref": "main"
     },
     {
       "id": "fluid-transit",
