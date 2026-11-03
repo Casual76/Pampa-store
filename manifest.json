@@ -122,20 +122,20 @@
   ],
   "storeReleases": {
     "stable": {
-      "version": "1.8.3",
-      "releaseDate": "2026-10-21",
-      "changelog": "Gli interruttori si trascinano davvero (Fluid Engine 2.13.1): prima si potevano solo toccare. Ora li puoi trascinare partendo da qualunque punto, la pagina resta ferma mentre lo fai, e una vibrazione leggera ti dice quando si accendono o si spengono, sia toccandoli sia trascinandoli.",
-      "releaseTag": "stable-pampa-store-v1.8.3",
-      "apkAsset": "pampa-store-1.8.3.apk",
-      "sizeBytes": 3935142
+      "version": "1.9.0",
+      "releaseDate": "2026-11-03",
+      "changelog": "Pampa Store 1.9.0: Fluid Engine 3 (pagine che seguono il dito, barra di vetro che esce col dettaglio, sezione Aspetto con nero assoluto e aptica); il gesto indietro parte dal bordo dello schermo. Licenza GPL-3.0, sorgenti pubblici.",
+      "releaseTag": "stable-pampa-store-v1.9.0",
+      "apkAsset": "pampa-store-1.9.0.apk",
+      "sizeBytes": 4000629
     },
     "beta": {
-      "version": "1.8.3",
-      "releaseDate": "2026-10-21",
-      "changelog": "Gli interruttori si trascinano davvero (Fluid Engine 2.13.1): prima si potevano solo toccare. Ora li puoi trascinare partendo da qualunque punto, la pagina resta ferma mentre lo fai, e una vibrazione leggera ti dice quando si accendono o si spengono, sia toccandoli sia trascinandoli.",
-      "releaseTag": "stable-pampa-store-v1.8.3",
-      "apkAsset": "pampa-store-1.8.3.apk",
-      "sizeBytes": 3935142
+      "version": "1.9.0",
+      "releaseDate": "2026-11-03",
+      "changelog": "Pampa Store 1.9.0: Fluid Engine 3 (pagine che seguono il dito, barra di vetro che esce col dettaglio, sezione Aspetto con nero assoluto e aptica); il gesto indietro parte dal bordo dello schermo. Licenza GPL-3.0, sorgenti pubblici.",
+      "releaseTag": "stable-pampa-store-v1.9.0",
+      "apkAsset": "pampa-store-1.9.0.apk",
+      "sizeBytes": 4000629
     },
     "repository": {
       "repoOwner": "Casual76",
