@@ -15,6 +15,13 @@
       "ref": "main"
     },
     {
+      "id": "dev-pampa-fluidweather",
+      "repoOwner": "Casual76",
+      "repoName": "FluidWeather",
+      "manifestPath": "manifest.json",
+      "ref": "main"
+    },
+    {
       "id": "fluid-glass",
       "repoOwner": "Casual76",
       "repoName": "fluid-engine",
