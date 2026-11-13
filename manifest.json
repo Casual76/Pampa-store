@@ -61,7 +61,7 @@
       "repoOwner": "Casual76",
       "repoName": "MyCloud-Gallery",
       "manifestPath": "manifest.json",
-      "ref": ""
+      "ref": "main"
     },
     {
       "id": "pampa-invaders",
